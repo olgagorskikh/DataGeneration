@@ -1,0 +1,228 @@
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculator1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olia\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olia\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olia\Dropbox\Projects\C#\MainStatisticCalculatorWorkingVersion\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Olia\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Projects\C#\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Projects\C#\Research\MainStatFinal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\Research\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\Research\MainStatFinal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Projects\C#\Research\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Research\Projects\6. Period comparisons\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\gorskio1\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\gorskio1\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\gorskio1\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\Normal\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\Normal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\7. Data simulator\Normal\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Basic\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\Olga\Dropbox\Research\Projects\12. Simulations multi\Medium\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\RDotNet.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\RDotNet.xml
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+D:\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\M1\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Tiny\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Tiny\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Tiny\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\olgaa\Dropbox\Research\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator1.csprojResolveAssemblyReference.cache
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb

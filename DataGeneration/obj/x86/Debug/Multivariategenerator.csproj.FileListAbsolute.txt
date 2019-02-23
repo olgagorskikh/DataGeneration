@@ -1,0 +1,29 @@
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.Statistics.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\DynamicInterop.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Meta.Numerics.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\Accord.Statistics.xml
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\DynamicInterop.xml
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.xml
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\Multivariategenerator.csprojResolveAssemblyReference.cache
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Form1.resources
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\Multivariategenerator.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MainStatisticCalculator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MultivariateGenerator\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MultivariateGenerator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Research\PhD\Old\Projects\12. Simulations multi\Basic\Small\MultivariateGenerator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\General\Official projects\PhD projects\data generation\MultivariateGenerator\MultivariateGenerator\bin\Debug\MainStatisticCalculator.exe.config
+C:\General\Official projects\PhD projects\data generation\MultivariateGenerator\MultivariateGenerator\obj\x86\Debug\MainStatisticCalculator.exe
+C:\General\Official projects\PhD projects\data generation\MultivariateGenerator\MultivariateGenerator\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.pdb

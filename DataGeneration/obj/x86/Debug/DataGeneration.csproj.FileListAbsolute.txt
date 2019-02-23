@@ -1,0 +1,9 @@
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\bin\Debug\MainStatisticCalculator.exe.config
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\bin\Debug\MainStatisticCalculator.exe
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\bin\Debug\MainStatisticCalculator.pdb
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\bin\Debug\Meta.Numerics.dll
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.Properties.Resources.resources
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\DataGeneration.csproj.GenerateResource.Cache
+C:\Users\olgaa\Dropbox\Projects\Official projects\DataGeneration\DataGeneration\DataGeneration\obj\x86\Debug\MainStatisticCalculator.MainForm.resources
