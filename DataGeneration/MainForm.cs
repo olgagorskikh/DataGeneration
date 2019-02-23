@@ -65,6 +65,9 @@ namespace MainStatisticCalculator
         private static int second = 300;
         private static int third = 480;
 
+        //Folder to publish the results at
+        private static string rootFolder = "C:\\Data";
+
         #endregion
 
         private void bGo_Click(object sender, EventArgs e)
@@ -109,7 +112,7 @@ namespace MainStatisticCalculator
         public static void GenerateIndividualSet(string distr, double outlier, string magn, string iteration)
         {
             
-            string partPath = @"C:\\Data\\"+magn+"\\"+outlier+"\\"+distr+"\\"+iteration;
+            string partPath = rootFolder + magn + "\\" + outlier.ToString() + "\\" + distr + "\\" + iteration;
             Directory.CreateDirectory(partPath);
 
             //Generate noise for all responses of the whole dataset
