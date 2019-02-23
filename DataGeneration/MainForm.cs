@@ -351,7 +351,6 @@ namespace MainStatisticCalculator
         }
 
       
-        //k - index of y
         private static void PrintGeneratedData(string path)
         {
             var text = string.Empty;
